@@ -1,73 +1,63 @@
 # 👋 Noah Benauwt
 
-> 🧠 Learning software development through personal projects  
+> 🧠 J’apprends le dev en construisant des projets concrets  
 > 📍 France
 
 ---
 
-## 🧩 About Me
+## 🧩 À propos
 
-I am a **beginner developer**, currently learning programming step by step.
-
-I actively work on personal projects to understand fundamentals.
-
-My goal is to build **real skills**, not just collect tools.
+Je suis en apprentissage du développement.  
+Je progresse surtout via des **projets personnels** pour bosser la logique, la structure du code et les bonnes pratiques.
 
 ---
 
-## 🛠️ Skills (Learning)
+## 📦 Projets
 
-| Technology | Level | Notes |
-|----------|-------|-------|
-| Java | Beginner | Fundamentals, logic, OOP basics |
-| Python | Beginner | Scripts, logic, small projects |
-| Swift / SwiftUI | Beginner | iOS app experimentation |
-| Git & GitHub | Beginner | Commits, repos, workflow |
+### 🤖 Beno — Bot Discord (Python / discord.py)
+- Commandes slash (ex : `/help`, `/meteo`, `/ia`, `/test`)
+- Embeds (UI propre, liste de commandes, visuels)
+- Interactions (modals / formulaires, signalements)
+- Structure (cogs, refactor, lisibilité)
+- Intégration d’API (ex : météo)
+
+➡️ https://github.com/noahbenauwt/discord_bot
 
 ---
-
-## 📦 Projects
 
 ### 📘 Portfolio
-> This repository
-
-**Purpose:**  
-Present my learning journey, skills, and projects in a clear way.
+Ce dépôt centralise mes projets, mes compétences et ma progression.
 
 ---
 
-### 🧠 Focus Debt
-> Learning Git & GitHub basics
+## 🔒 Projet privé
 
-- First Git repository
-- Understanding commits, remotes, push / pull
-- Repository management
-
----
-
-### 📱 iOS App (SwiftUI)
-> Learning project – private
-
-- Discovering Swift & SwiftUI
-- Understanding app structure
-- UI experiments and logic
+### 📱 App iOS (Swift / SwiftUI)
+- UI + logique (SwiftUI)
+- Structure d’app, navigation, composants
+- Expérimentations
 
 ---
 
-## 🎯 Current Goals
+## 🛠️ Compétences (en cours)
 
-- Improve Java fundamentals  
-- Practice Python regularly  
-- Learn Git properly  
-- Build small but concrete projects  
+| Tech | Niveau | Focus |
+|------|--------|-------|
+| Python | En progression | logique, structure, mini-projets |
+| Swift / SwiftUI | En progression | iOS, UI, architecture |
+| Git | Apprentissage actif | workflow, commits |
 
 ---
 
-> 🚀 This portfolio will evolve as I learn and build new projects.
+## 🎯 Objectifs actuels
+
+- Renforcer mes bases en **Python**
+- Construire des projets concrets régulièrement
+- Continuer SwiftUI sur mon app iOS
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [noah.benauwt81@gmail.com](mailto:noah.benauwt81@gmail.com)
-- 💬 Discord: noah.beno
+- 📧 [noah.benauwt81@gmail.com](mailto:noah.benauwt81@gmail.com)
+- 💬 Discord : noah.beno
