@@ -44,6 +44,7 @@ Ce dépôt centralise mes projets, mes compétences et ma progression.
 | Tech | Niveau | Focus |
 |------|--------|-------|
 | Python | En progression | logique, structure, mini-projets |
+| Java | Débutant | bases / POO (secondaire) |
 | Swift / SwiftUI | En progression | iOS, UI, architecture |
 | Git | Apprentissage actif | workflow, commits |
 
